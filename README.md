@@ -21,12 +21,12 @@ This is the most important part of the project , identifying the meaningful intu
 
 Some of the insights:-
 <p align="center">
-  <img src = "readmeImages/ins1.PNG" width ="500">
+  <img src = "readmeImages/ins1.PNG" width ="800">
 </p>
 <p align="center">
-  <img src = "readmeImages/ins2.PNG" width ="500">
+  <img src = "readmeImages/ins2.PNG" width ="800">
 </p>
 <p align="center">
-  <img src = "readmeImages/ins3.PNG" width ="500">
+  <img src = "readmeImages/ins3.PNG" width ="800">
 </p>
 
